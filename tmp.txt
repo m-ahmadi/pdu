@@ -1,0 +1,28 @@
+var i,
+		j,
+		n,
+		nn,
+		jso = '[';
+		
+	for (i=0; i<2; i+=1) {
+		n = i+1;
+		jso += '{';
+		jso += ' "id"     : "'+n+'",';
+		jso += ' "parent" : "#",';
+		jso += ' "text"   : "دستگاه شماره '+n+'" }';
+		if (i === 1) {
+			jso += ',';
+		}
+		alert(jso);
+		for (j=0; j<8; j+=1) {
+			nn = j+1;
+			jso += '{';
+			jso += ' "id"     : "port '+nn+'",';
+			jso += ' "parent" : "'+n+'",';
+			jso += ' "text"   : "پورت '+nn+'" }';
+			if (j === 7) {
+				jso += ',';
+			}
+		}
+	}
+	jso += ']';

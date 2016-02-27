@@ -1,0 +1,198 @@
+[
+	{
+		"id" : "1",
+		"parent" : "#",
+		"text" : "دستگاه 1",
+		"icon" : "glyphicon glyphicon-hdd"
+	},
+	{
+		"id" : "2",
+		"parent" : "#",
+		"text" : "دستگاه 2",
+		"icon" : "glyphicon glyphicon-hdd"
+	},
+	{
+		"id" : "3",
+		"parent" : "#",
+		"text" : "دستگاه 3",
+		"icon" : "glyphicon glyphicon-hdd"
+	},
+	
+	
+	
+	
+	{
+		"id" : "port1",
+		"parent" : "1",
+		"text" : "پورت 1",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port2",
+		"parent" : "1",
+		"text" : "پورت 2",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port3",
+		"parent" : "1",
+		"text" : "پورت 3",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port4",
+		"parent" : "1",
+		"text" : "پورت 4",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port5",
+		"parent" : "1",
+		"text" : "پورت  5",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port6",
+		"parent" : "1",
+		"text" : "پورت 5",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port7",
+		"parent" : "1",
+		"text" : "پورت  7",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port8",
+		"parent" : "1",
+		"text" : "پورت  8",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	
+	
+	
+	
+	
+	
+	{
+		"id" : "port11",
+		"parent" : "2",
+		"text" : "پورت  1",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port12",
+		"parent" : "2",
+		"text" : "پورت  2",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port13",
+		"parent" : "2",
+		"text" : "پورت  3",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port14",
+		"parent" : "2",
+		"text" : "پورت  4",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port15",
+		"parent" : "2",
+		"text" : "پورت  5",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port16",
+		"parent" : "2",
+		"text" : "پورت  6",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port17",
+		"parent" : "2",
+		"text" : "پورت  7",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port18",
+		"parent" : "2",
+		"text" : "پورت  8",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"id" : "port31",
+		"parent" : "3",
+		"text" : "پورت  1",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port32",
+		"parent" : "3",
+		"text" : "پورت  2",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port33",
+		"parent" : "3",
+		"text" : "پورت  3",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port34",
+		"parent" : "3",
+		"text" : "پورت  4",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port35",
+		"parent" : "3",
+		"text" : "پورت  5",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port36",
+		"parent" : "3",
+		"text" : "پورت  6",
+		"icon" : "glyphicon glyphicon-record"
+	},
+	{
+		"id" : "port37",
+		"parent" : "3",
+		"text" : "پورت  7",
+		"icon" : "glyphicon glyphicon-record"
+		
+	},
+	{
+		"id" : "port38",
+		"parent" : "3",
+		"text" : "پورت  8",
+		"icon" : "glyphicon glyphicon-record"
+	}
+]

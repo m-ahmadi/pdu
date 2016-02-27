@@ -1,0 +1,47 @@
+
+perms
+	
+
+
+device
+	power
+	current
+
+
+bank
+	current
+	voltage
+	
+	
+outlet
+	id							12
+	type						outlet
+	port						7
+	
+	current state				on
+	current value				on
+	initial state				on
+	voltage consumed
+	min volt
+	max volt
+	alarm level
+
+
+
+
+device
+	banl
+		1
+		2
+		3
+		4
+	bank
+
+
+mantaghe			
+	sakhteman		
+		device		
+	
+
+
+	
